@@ -8,7 +8,7 @@ The easiest way to use this script is to embed it as a post-install script in yo
 ```js
 {
     "scripts": {
-        "postinstall": "python web/bower_components/highlander.py"
+        "postinstall": "python web/bower_components/polymer-highlander/highlander.py"
     },
     "directory": "web/bower_components"
 }
