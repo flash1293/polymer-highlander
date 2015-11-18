@@ -1,0 +1,24 @@
+{
+  "name": "polymer-highlander",
+  "version": "0.0.1",
+  "authors": [
+    "Johannes Reuter <email@johannes-reuter.de>"
+  ],
+  "description": "Helper-script making it possible to use js-polymer-elements in dart-polymer",
+  "moduleType": [],
+  "keywords": [
+    "polymer",
+    "dart",
+    "helper",
+    "python"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/flash1293/polymer-highlander",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
